@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "jest": "^29.5.0"
-  }
+  },
+  "name": "unittestingassignment",
+  "version": "1.0.0",
+  "main": "total.test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatoRaymond-FS/UnitTestingAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatoRaymond-FS/UnitTestingAssignment/issues"
+  },
+  "homepage": "https://github.com/CatoRaymond-FS/UnitTestingAssignment#readme",
+  "description": ""
 }
